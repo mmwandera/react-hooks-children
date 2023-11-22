@@ -31,6 +31,10 @@ function App() {
           src="https://pbs.twimg.com/profile_images/3022993403/fdae67d800527328cee7a222f048dbbd.jpeg"
         />
       </Container>
+      <Container header = "Big man ting yeah">
+        <div>It's looking good bruv</div>
+        <div>So mans just here init</div>
+      </Container>
     </div>
   );
 }
